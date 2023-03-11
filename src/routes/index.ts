@@ -1,0 +1,5 @@
+export { default as ErrorPage } from "./ErrorPage" 
+export { default as GeneralPage } from "./GeneralPage" 
+export { default as HelpPage } from "./HelpPage" 
+export { default as LoginPage } from "./LoginPage" 
+export { default as MainPage } from "./MainPage" 
